@@ -1,33 +1,4 @@
-# 🐧 Linux Journey — Spring 2025
-
-Welcome to my **Linux Learning Repository** for the Spring 2025 semester.  
-This repository documents everything I learn week-by-week — from **installation** to **system administration**, **Bash scripting**, and **process management**.
-
 I’m using **WSL (Windows Subsystem for Linux)** with **Ubuntu** as my primary environment throughout this course.
-
----
-
-## 🗓 Course Roadmap (University Outline)
-
-| Week | Topic |
-|------|--------|
-| 1 | Installation and Overview |
-| 2 | Commands (basic and file related) |
-| 3 | More Commands |
-| 4 | Users, Groups and Privileges |
-| 5 | Introduction to Bash and Scripting |
-| 6 | Structures and Programs |
-| 7 | Administration tasks in Unix |
-| 8 | Mid-term Examination |
-| 9 | Permissions and Shared Directories |
-| 10 | Processes and SJF algorithm |
-| 11 | Processes and FCFS algorithm |
-| 12 | Process Management and Scheduling |
-| 13 | Packages in UNIX & CentOS 6 systems |
-| 14 | Networking in CentOS 6 systems |
-| 15 | Project Task I |
-
----
 
 # 🧠 Week 01 — Installation & Overview
 
@@ -101,21 +72,6 @@ It includes:
    ```bash
    sudo apt update && sudo apt upgrade -y
    ```
-
----
-
-## 🧭 Folder Navigation in Linux
-
-| Command | Description |
-|----------|-------------|
-| `pwd` | Show current directory |
-| `ls` | List files/folders |
-| `cd <path>` | Change directory |
-| `mkdir <dir>` | Create folder |
-| `rmdir <dir>` | Remove folder |
-| `touch <file>` | Create file |
-| `rm <file>` | Delete file |
-
 ---
 
 ## 🧩 Where is Linux Actually Running?
