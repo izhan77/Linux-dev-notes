@@ -56,7 +56,7 @@ izhan@Izhan7:~$
 | `tail file.txt` | Shows last 10 lines | — |
 | `tail -n 4 file.txt` | Shows last 4 lines | — |
 | `diff file1.txt file2.txt` | Compares two files line-by-line | — |
-| `cat file.txt | tr a-z A-Z > upper.txt` | Converts lowercase → uppercase and saves output | — |
+| `cat file.txt \| tr a-z A-Z > upper.txt` | Converts lowercase → uppercase and saves output | — |
 
 ---
 
