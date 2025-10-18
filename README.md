@@ -14,7 +14,7 @@ Instead of just following theory, I’m focusing on *understanding, breaking, fi
 
 ---
 
-## 🗓️ Weekly Plan (Aggressive + Practical)
+## 🗓️ Weekly Plan 
 
 | Week | Focus | Key Hands-on Tasks |
 |------|--------|--------------------|
@@ -51,8 +51,10 @@ Instead of just following theory, I’m focusing on *understanding, breaking, fi
 ---
 
 ## 📘 Resources
-- 🎥 [Kunal Khushwaha’s Linux Series](https://www.youtube.com/watch?v=iwolPf6kN-k)  
-- 🎥 [Learn Linux TV](https://www.youtube.com/watch?v=lvSoxOMg5_c&list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ)  
+- 🎥 [Kunal Khushwaha’s Linux Series](https://www.youtube.com/watch?v=iwolPf6kN-k)
+- 🎥 [TrainWithShubham](https://www.youtube.com/watch?v=e01GGTKmtpc&t=9040s)
+- 🎥 [Sanjeev Thiyagarajan](https://www.youtube.com/watch?v=2QjMmF5itVU)
+- 🎥 [KeepItTechie](https://www.youtube.com/watch?v=omvv_Wfb60o)  
 - 🧠 `man` pages and `tldr` for command help  
 - 🐍 Practice scripting through simple automation tasks
 
