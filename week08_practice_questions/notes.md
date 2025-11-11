@@ -72,9 +72,7 @@ pwd
 
 13. **Count the number of files in your home directory.**  
 ```bash
-find ~ -maxdepth 1 -type f | wc -l
-# Or (including hidden files):
-find ~ -maxdepth 1 -type f -printf '.' | wc -c
+find ~ -type f | wc -l
 ```
 
 14. **Rename a file `notes.txt` to `final_notes.txt`.**  
@@ -99,7 +97,7 @@ ln -s /var/www/html ~/html
 find /etc -type f -mtime -1
 ```
 
-**What `-mtime` means:** `-mtime -1` = modified within the last 24 hours. `-mtime 1` = 24–48 hours ago.
+**What `-mtime` means:** `-mtime -1` = modified within the last 24 hours. `-mtime 1` = 24–48 hours ago. `-mtime +1` = modified more than 24-48 hours
 
 18. **Compress a folder `project` into `project.tar.gz`.**  
 ```bash
